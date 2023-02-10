@@ -1,0 +1,22 @@
+.App {
+     text-align: center;
+     margin: 50px;
+}
+
+input {
+     padding: 2px 5px;
+     margin: 10px 0;
+     font-size: 1.5rem;
+     border: 2px solid rebeccapurple;
+     border-radius: 6px;
+     outline: none;
+}
+input:focus {
+     transform: scale(.99);
+}
+
+button {
+     cursor: pointer;
+     padding: 6px 10px;
+     font-size: 1.2rem;
+}
